@@ -1,0 +1,51 @@
+<div id="" style="width: 960px;">
+	<h3>創始成員</h3><br/>
+	
+	{{#each fdMember}}
+	<div class = "s-wrraper">
+	    <div class = "team-member">
+	            <img class="member-photo" src = "{{image}}" />
+	            <span class="intro"><button class = "close-intro">x</button>
+	                <p id="name">{{fdMember.name}}</p>
+	                <p>{{title}}<br/>
+	                    <p id="major"></p>
+	                	{{introduction}}
+	                </p>
+	            </span>
+	    </div><p class="member-breif">{{name}}<br/>{{title}}</p>
+	</div>
+	{{/each}}
+
+	<h3 style="width: 220px;">現任成員</h3><br/>
+	{{#each ctMember}}
+	<div class="s-wrraper">
+	    <div class="team-member">
+	            <img class="member-photo" src = "{{image}}" />
+	            <span class="intro"><button class = "close-intro">x</button>
+	                <p id="name">{{name}}</p>
+	                <p>{{title}}<br/>
+	                    <p id="major"></p>
+	                	{{introduction}}
+	                </p>
+	            </span>
+	    </div><p class="member-breif">{{name}}<br/>{{title}}</p>
+	</div>
+	{{/each}}
+
+	<h3 style="width: 220px;">歷屆成員</h3><br/>
+	{{#each preMember}}
+	<div class="s-wrraper">
+	    <div class="team-member">
+	            <img class="member-photo" src = "{{image}}" />
+	            <span class="intro"><button class = "close-intro">x</button>
+	                <p id="name">{{name}}</p>
+	                <p>{{preMember.title}}<br/>
+	                    <p id = "major"></p>
+	                	{{introduction}}
+	                </p>
+	            </span>
+	    </div><p class="member-breif">{{name}}<br/>{{title}}</p>
+	</div>
+	{{/each}}
+
+</div>

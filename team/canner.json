@@ -1,0 +1,396 @@
+{
+    "layout": "team.hbs",
+    "filename": "team.html",
+    "data": {
+        "fdMember": [
+            {
+                "name":  "Chen Shih Feng / Enbe",
+                "title": "Co-Founder",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Enbe.jpg",
+                "introduction": ""
+
+            },
+                  {
+                "name":  "何諺錡 / Michael",
+                "title": "Co-Founder, Curator, Storyteller",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/041.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "陳子喬 / Chelsea",
+                "title": "Dreamer, Doer, Ripple-maker",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Chelsea.png",
+                "introduction": ""
+            },
+            {
+                "name":  "方若璽 / Dami",
+                "title": "",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Dami.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "Hsu Cheng Yeh / Glenn",
+                "title": "usic Lover,Performer and Singer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Glenn.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "楊孟珣 / Vivian",
+                "title": "",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Vivian.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "張宇凡 / Yu-Fan Chang",
+                "title": "",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Yu-Fan.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "留榮鋒/ Luke Liu",
+                "title": "",
+                "image": "https://www.tedxtainan.com/wordpress/wp-content/uploads/2014/12/10707905_902913729737772_948319726_n.jpg",
+                "introduction": ""
+            }
+        ],
+        "ctMember": [
+        	{
+                "name":  "賴嘉恩 / Daniel",
+                "title": "策展人",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Chai-En.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "吳啟豪",
+                "title": "策展人",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/034.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "鄭嘉勳",
+                "title": "人資",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/002.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "王若馨",
+                "title": "人資",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/001.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "周凌君",
+                "title": "公關",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/003.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "林亦盛",
+                "title": "公關",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/004.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "林依穎",
+                "title": "公關",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/005.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "韋榮威",
+                "title": "公關",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/006.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "程冠連",
+                "title": "公關",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/007.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "黃莉雅",
+                "title": "公關",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/008.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "蔡宜真",
+                "title": "公關",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/009.jpg",
+                "introduction": ""
+            }
+			,
+            {
+                "name":  "蔡昀霓",
+                "title": "公關",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/010.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "方禹",
+                "title": "行銷",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/011.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "李明叡",
+                "title": "行銷",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/012.jpg",
+                "introduction": ""
+            }
+			,
+            {
+                "name":  "孫嘉蔚",
+                "title": "行銷",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/013.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "徐偉倫",
+                "title": "行銷",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/014.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "張柏瑋",
+                "title": "行銷",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/015.jpg",
+                "introduction": ""
+            }
+			,
+            {
+                "name":  "趙德蘭",
+                "title": "行銷",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/016.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "方亮中",
+                "title": "展場",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/017.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "李孟謙",
+                "title": "展場",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/018.jpg",
+                "introduction": ""
+            }
+			,
+            {
+                "name":  "陳彥佑",
+                "title": "展場",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/019.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "陳雅喬",
+                "title": "展場",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/021.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "鄭翔蔚",
+                "title": "展場",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/023.jpg",
+                "introduction": ""
+            }
+			,
+            {
+                "name":  "張慈",
+                "title": "財務",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/030.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "游皓程",
+                "title": "財務",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/027.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "駱子揚",
+                "title": "財務",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/024.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "楊亞純",
+                "title": "執行祕書",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/020.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "李亞蓮",
+                "title": "專欄",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/025.jpg",
+                "introduction": ""
+            }
+             ,
+            {
+                "name":  "林冠汝",
+                "title": "專欄",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/022.jpg",
+                "introduction": ""
+            }
+             ,
+            {
+                "name":  "曹凱婷",
+                "title": "專欄",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/028.jpg",
+                "introduction": ""
+            }
+             ,
+            {
+                "name":  "莊富涵",
+                "title": "設計秘書",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/026.jpg",
+                "introduction": ""
+            }
+             ,
+            {
+                "name":  "邢長玲",
+                "title": "策展",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/031.jpg",
+                "introduction": ""
+            }
+             ,
+            {
+                "name":  "高紹軒",
+                "title": "策展",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/029.jpg",
+                "introduction": ""
+            }
+                ,
+            {
+                "name":  "蔡可歆",
+                "title": "策展",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/032.jpg",
+                "introduction": ""
+            }
+             ,
+            {
+                "name":  "黃敏",
+                "title": "策展",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/033.jpg",
+                "introduction": ""
+            }
+             ,
+            {
+                "name":  "陳昭成",
+                "title": "資訊",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/035.jpg",
+                "introduction": ""
+            }
+              ,
+            {
+                "name":  "黃啟軒",
+                "title": "",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/037.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "陳柏彤",
+                "title": "資訊",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/036.jpg",
+                "introduction": ""
+            }
+            ,
+              {
+                "name":  "謝家展 / Crosby",
+                "title": "Finder,Photographer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Crosby.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "郭建宏",
+                "title": "攝影",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/038.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "楊翔竣",
+                "title": "攝影",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/040.jpg",
+                "introduction": ""
+            }
+            ,
+            {
+                "name":  "彭曉涵",
+                "title": "攝影",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/039.jpg",
+                "introduction": ""
+            }
+
+        ],
+        "preMember": [
+            {
+                "name":  "蔡惠群 / Asta",
+                "title": "Change-maker, Thinker, Curator",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Asta.JPG",
+                "introduction": ""
+            },
+            {
+                "name":  "顏慷 / Bryan",
+                "title": "Dreamer,Doer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Bryan.JPG",
+                "introduction": ""
+            },
+            {
+                "name":  "王子豪 / Charles",
+                "title": "Dreamer, Doer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Charles.jpg",
+                "introduction": ""
+            },
+           
+            {
+                "name":  "徐麟芳 / Funny",
+                "title": "Deamer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Funny.jpg",
+                "introduction": ""
+            },
+          
+            {
+                "name":  "邱冠菱/ Kelly",
+                "title": "Dreamer Doer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Kelly.jpg",
+                "introduction": ""
+            },
+          
+            {
+                "name":  "湯景雯 / Nono",
+                "title": "Explorer, Doer, Ripple-maker",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Nono.jpg",
+                "introduction": ""
+            },
+          	{
+                "name":  "李雅芝 / Joyce",
+                "title": "Dreamer,Doer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Joyce.jpg",
+                "introduction": ""
+            },
+            {
+                "name":  "張怡君/ Uni",
+                "title": "Programmer, Doer, Dreamer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Uni.jpg",
+                "introduction": ""
+            },
+             {
+                "name":  "林偉婷 / Ivy",
+                "title": "Dreamer, Doer",
+                "image": "http://www.tedxtainan.com/wordpress/wp-includes/team-images/Ivy.JPG",
+                "introduction": ""
+            }
+        ]
+    }
+}
